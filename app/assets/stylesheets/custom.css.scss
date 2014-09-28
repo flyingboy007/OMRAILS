@@ -1,0 +1,15 @@
+$navbarBackgroundHighlight: white;
+$navbarBackground: white;
+@import "bootstrap";
+body{
+	padding-top:60px;
+}
+@import "bootstrap-sprockets";
+
+.footer{
+	margin-top: 50px;
+	color: $gray-lighter;
+	a{
+		color: $gray;
+	}
+}
